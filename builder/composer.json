@@ -1,0 +1,15 @@
+{
+    "name": "jandelson/builder",
+    "autoload": {
+        "psr-4": {
+            "Jandelson\\Builder\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jandelson Oliveira",
+            "email": "jandelson.oliveira@sapientag2.com.br"
+        }
+    ],
+    "require": {}
+}
